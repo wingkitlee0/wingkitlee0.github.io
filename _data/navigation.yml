@@ -8,6 +8,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Resume"
+    url: /resume/
   - title: "Projects"
     url: /projects/
   - title: "Machine Learning"
