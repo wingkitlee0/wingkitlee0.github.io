@@ -4,6 +4,8 @@ title: "Resume"
 permalink: /resume/
 author_profile: true
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf) <i class="fas fa-file-pdf"></i>.
@@ -15,9 +17,9 @@ A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf) <i class="fa
 
 ## Education
 **University of California, San Diego**  
-PhD in Physics (Astrophysics)
+PhD in Physics (Astrophysics)  
 *Oct 2013*  
-*Thesis*: Spiral Shock and Feathering Instabilities in Spiral Arms
+*Thesis*: [Spiral Shock and Feathering Instabilities in Spiral Arms](https://escholarship.org/uc/item/6dx4p6k1)
 
 **Chinese University of Hong Kong**  
 BSc in Physics  
@@ -82,11 +84,10 @@ Research Assistant
 - Created a new numerical algorithm to solve the coupled nonlinear differential equations.
 - Awarded 200,000 cpu-hours from national computing facilities (Teragrid) to perform high-throughput parameter-sweeping calculations.
 
-# Additional Information
+## Additional Information
 Languages: Chinese (Native), English (Professional)  
 Technical Skills (selected):  
-- **Working**: C++, Python, Git, bash shell, Fortran, Linux
-- **Basic**: C, CUDA
+- C++, Python, Git, bash shell, Fortran, Linux, C, CUDA
 - Experience in HPC (OpenMP, OpenMPI), cloud computing (AWS, Azure, GCP), and machine learning (tensorflow, keras, scikit-learn)
 - Others: Mathematica, docker
 
