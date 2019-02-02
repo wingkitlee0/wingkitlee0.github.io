@@ -1,3 +1,4 @@
+---
 defaults:
   # _pages
   - scope:
@@ -6,6 +7,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+---
 
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
