@@ -112,6 +112,9 @@ author:
   location         : "Chicago, IL"
   email            : wklee4993@gmail.com
   links:
+    - label: "Resume (PDF)"
+      icon: "fas fa-fw file-pdf"
+      url: "../assets/pdfs/resume_kitlee.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -128,7 +131,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wingkitlee0"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/wingkitlee"
 
 # Site Footer

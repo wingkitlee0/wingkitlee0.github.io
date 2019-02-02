@@ -9,8 +9,7 @@ toc: true
 A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf)
 
 > [wingkitlee0.github.io](https://wingkitlee0.github.com) | 
-[wklee4993(at)gmail.com](mailto:wingkitlee0@gmail.com) | 
-[224.307.4003](tel:224.307.4003)
+[wklee4993(at)gmail.com](mailto:wingkitlee0@gmail.com)
 
 # [Kit Lee](https://wingkitlee0.github.io)
 
