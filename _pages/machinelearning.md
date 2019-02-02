@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: pages
 title: "Machine Learning"
 permalink: /machinelearning/
 author_profile: true
