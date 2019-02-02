@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf)
+A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf) <i class="fas fa-file-pdf"></i>.
 
 > [wingkitlee0.github.io](https://wingkitlee0.github.com) | 
 [wklee4993(at)gmail.com](mailto:wingkitlee0@gmail.com)

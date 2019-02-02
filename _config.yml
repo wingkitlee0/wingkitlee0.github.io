@@ -113,7 +113,7 @@ author:
   email            : wklee4993@gmail.com
   links:
     - label: "Resume (PDF)"
-      icon: "fas fa-fw fa-file-pdf-o"
+      icon: "fas fa-fw fa-file-pdf"
       url: "../assets/pdfs/resume_kitlee.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
