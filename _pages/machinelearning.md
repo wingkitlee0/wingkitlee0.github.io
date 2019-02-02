@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Machine Learning"
 permalink: /machinelearning/
 author_profile: true
