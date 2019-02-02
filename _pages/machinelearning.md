@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "/machinelearning/"
       type: pages
     values:
       layout: single
