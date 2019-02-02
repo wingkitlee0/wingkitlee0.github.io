@@ -1,8 +1,9 @@
 ---
-layout: pages
+layout: single
 title: "Machine Learning"
 permalink: /machinelearning/
 author_profile: true
+toc: true
 ---
 
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
