@@ -1,12 +1,7 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: "/machinelearning/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  title: "Machine Learning"
+  permalink: /machinelearning/
+  author_profile: true
 ---
 
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
