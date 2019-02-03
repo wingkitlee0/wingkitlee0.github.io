@@ -20,6 +20,7 @@ title                    : "Kit's GitHub Page"
 title_separator          : "-"
 name                     : "Kit Lee"
 description              : ""
+favicon                  : /assets/images/favicon-space-shuttle.ico?
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
