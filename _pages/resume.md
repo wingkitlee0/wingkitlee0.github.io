@@ -10,10 +10,10 @@ toc_icon: "cog"
 
 A PDF version can be found [here](../assets/pdfs/resume_kitlee.pdf) <i class="fas fa-file-pdf"></i>.
 
-> [wingkitlee0.github.io](https://wingkitlee0.github.com) | 
-[wklee4993(at)gmail.com](mailto:wingkitlee0@gmail.com)
-
 # [Kit Lee](https://wingkitlee0.github.io)
+
+> web: [wingkitlee0.github.io](https://wingkitlee0.github.com)  
+> email: [wklee4993(at)gmail.com](mailto:wingkitlee0@gmail.com)
 
 ## Education
 **University of California, San Diego**  
@@ -60,7 +60,7 @@ BSc in Physics
 - Technologies: Multi-threaded debugging, Fortran
 
 ## [Academic Experience](https://sites.northwestern.edu/wklee/cv)
-**[Northwestern University](ciera.northwestern.edu), Evanston, IL**  
+**[Northwestern University](https://ciera.northwestern.edu), Evanston, IL**  
 Postdoc  
 *Aug 2016 -- present*  
 - Perform research on fluid dynamics of celestial objects, such as forming-planets and galaxies. 
@@ -68,7 +68,7 @@ Postdoc
 - Present published [results](https://sites.northwestern.edu/wklee/cv) in conferences/seminars as invited speaker.
 - Awarded Microsoft Azure Research Grant in 2017 for code development ($20000)
 
-**[Academic Sinica Institute of Astronomy and Astrophysics](www.asiaa.sinica.edu.tw), Taipei, Taiwan**  
+**[Academic Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw), Taipei, Taiwan**  
 Postdoc  
 *Oct 2013 -- Aug 2016*  
 - Developed a Python program to perform parallel execution of Fortran code on the multi-node environment.
