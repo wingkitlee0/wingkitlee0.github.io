@@ -46,4 +46,4 @@ Contributions:
 
 ## [Arxiv Reader](https://www.microsoft.com/en-us/p/arxiv-reader/9nblggh5kb5j) (Mobile)
 
-This is an app to browse papers via the RSS feeds from [arxiv.org](arxiv.org). Over a hundred of acquisitions on the Windows Phone platform.
+This is an app to browse papers via the RSS feeds from [arxiv.org](https://www.arxiv.org). Over a hundred of acquisitions on the Windows Phone platform.

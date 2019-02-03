@@ -35,7 +35,7 @@ BSc in Physics
 ### [Alexa Skills on Amazon Echo devices (astro-ph)](https://www.amazon.com/gp/product/B0775WXX9P)  
 *2017 -- present*  
 - Allow users to listen to the 5 newest academic paper abstracts submitted to the preprint server [arxiv.org](www.arxiv.org).
-- Technologies: JSON, RSS, AWS Lambda, flask-ask, zappa
+- Technologies: JSON, RSS, AWS Lambda <i class="fab fa-aws"></i>, [flask-ask](https://flask-ask.readthedocs.io/en/latest/), zappa
 - [https://wingkitlee0.github.io/alexa_astroph/](https://wingkitlee0.github.io/alexa_astroph/) <i class="fab fa-fw fa-github"></i> 
 
 ### Open Source Contributions  
