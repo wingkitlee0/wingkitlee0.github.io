@@ -14,9 +14,9 @@ When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, t
 
 Check the title for the webapp. 
 
-The code can be found [here](https://github.com/wingkitlee0/arxiv_explore).
+The code can be found [here](https://github.com/wingkitlee0/arxiv_explore) <i class="fab fa-fw fa-github"></i>.
 
-*More details are coming*, including how to deploy the webapp (with numpy and tensorflow) onto Amazon Lambda serverless service.
+*More details are coming*, including how to deploy the webapp (with numpy and tensorflow) onto [AWS Lambda](https://aws.amazon.com/lambda/) <i class="fab fa-aws"></i> serverless service.
 
 ## Demo of webapp (20 news group  dataset)
 
@@ -28,6 +28,6 @@ Before fully implementing the above project, I tried to make a working demo. Thi
 
 Features:
 - Data (model parameters) are hosted on *Amazon S3*
-- Webapp is running on *Amazon Lambda* using *flask*
+- Webapp is running on AWS Lambda <i class="fab fa-aws"></i> using *flask* and scikit-learn.
 
-The codes and reference are hosted on [GitHub](https://github.com/wingkitlee0/flask-webapps/tree/master/newsgroup)
+The codes and reference are hosted on [GitHub](https://github.com/wingkitlee0/flask-webapps/tree/master/newsgroup) <i class="fab fa-fw fa-github"></i>.
