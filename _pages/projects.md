@@ -12,7 +12,7 @@ Here are a few projects that I have done during spare time.
 
 ![A demo GIF was here..]({{ site.url }}{{ site.baseurl }}/assets/images/demo.gif){: .align-center}
 
-This is a webapp that analyzes the summary of a paper and classify it into one of the astro-ph categories. I put the details [here](machinelearning.md)
+This is a webapp that analyzes the summary of a paper and classify it into one of the astro-ph categories. I put the details [here](machinelearning.md).
 
 ---
 
@@ -20,7 +20,7 @@ This is a webapp that analyzes the summary of a paper and classify it into one o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIdKXqN1x54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I have written two Alexa skills (astroph, astroph Earth). Basically they allow you to listen to the 5 newest academic paper abstracts submitted to the preprint server (arxiv.org). The RSS feeds from [arxiv.org](arxiv.org) are updated daily. The details of how to create with `AWS Lambda` / `Flask-Ask` etc can be found [here](https://wingkitlee0.github.io/alexa astroph). In short, I wrote a short python script (hosted on AWS Lambda) to convert the RSS feed to an Alexa-readable JSON file.
+I have written two Alexa skills (astroph, astroph Earth). Basically they allow you to listen to the 5 newest academic paper abstracts submitted to the preprint server (arxiv.org). The RSS feeds from [arxiv.org](https://www.arxiv.org) are updated daily. The details of how to create with `AWS Lambda` / `Flask-Ask` etc can be found [here](https://wingkitlee0.github.io/alexa astroph). In short, I wrote a short python script (hosted on AWS Lambda) to convert the RSS feed to an Alexa-readable JSON file.
 
 ---
 
@@ -46,4 +46,4 @@ Contributions:
 
 ## [Arxiv Reader](https://www.microsoft.com/en-us/p/arxiv-reader/9nblggh5kb5j) (Mobile)
 
-This is an app to browse papers via the RSS feeds from [arxiv.org](arxiv.org). Over a hundred of acquisitions on the Windows Phone platform.
+This is an app to browse papers via the RSS feeds from [arxiv.org](https://www.arxiv.org). Over a hundred of acquisitions on the Windows Phone platform.
