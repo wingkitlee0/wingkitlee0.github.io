@@ -46,7 +46,7 @@ BSc in Physics
 - Technologies: Fortran, f2py, setuptools
 
 **[scikit-cuda](https://scikit-cuda.readthedocs.io/en/latest/)** 
-- A Python wrapper for the [MAGMA](http://icl.cs.utk.edu/magma/ GPU linear algebra library, which allows **drop-in** replacement of scipy. 
+- A Python wrapper for the [MAGMA](http://icl.cs.utk.edu/magma/) GPU linear algebra library, which allows **drop-in** replacement of scipy. 
 - Technologies: cuda, cusolver, blas, lapack
 
 ### [Arxiv Reader (Mobile)](https://www.microsoft.com/en-us/store/apps/arxiv-reader/9nblggh5kb5j)

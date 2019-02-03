@@ -57,3 +57,5 @@ We use `zappa` to deploy the package on the `Amazon Lambda`. We first run `zappa
 ```
 
 Note that we have added the last three options: `slim_handler`, `use_precompiled_packages`, and `memory_size`.
+
+And...this is how I deployed my webapp for text analytics ([GitHub Repo](https://github.com/wingkitlee0/arxiv_explore) <i class="fab fa-fw fa-github"></i>)
