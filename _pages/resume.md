@@ -36,8 +36,7 @@ BSc in Physics
 *2017 -- present*  
 - Allow users to listen to the 5 newest academic paper abstracts submitted to the preprint server [arxiv.org](www.arxiv.org).
 - Technologies: JSON, RSS, AWS Lambda, flask-ask, zappa
-		\item \href{https://wingkitlee0.github.io/alexa_astroph/}{https://wingkitlee0.github.io/alexa\_astroph/}
-	\end{itemize}
+- [https://wingkitlee0.github.io/alexa_astroph/](https://wingkitlee0.github.io/alexa_astroph/) <i class="fab fa-fw fa-github"></i> 
 
 ### Open Source Contributions  
 *2018 -- present*  
@@ -67,7 +66,7 @@ Postdoc
 - Perform research on fluid dynamics of celestial objects, such as forming-planets and galaxies. 
 - Develop object-oriented C++ code to solve fluid problems based on the finite-difference method.
 - Present published [results](https://sites.northwestern.edu/wklee/cv) in conferences/seminars as invited speaker.
-- Awarded Microsoft Azure Research Grant in 2017 for code development (\$20000)
+- Awarded Microsoft Azure Research Grant in 2017 for code development ($20000)
 
 **[Academic Sinica Institute of Astronomy and Astrophysics](www.asiaa.sinica.edu.tw), Taipei, Taiwan**  
 Postdoc  
