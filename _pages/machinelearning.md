@@ -8,7 +8,7 @@ toc: true
 
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
-![A demo GIF was here..](https://raw.githubusercontent.com/wingkitlee0/wingkitlee0.github.io/master/images/demo.gif)
+![A demo GIF was here..](../assets/images/demo.gif)
 
 When a paper is being submitted to the [arxiv](www.arxiv.org) preprint server, the author needs to manually select which category the paper belong to. This [webapp](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/) allow user to enter their abstract (i.e., a few lines of the summary of their important paper), then the code will analyze it and suggest a category it belongs (in astronomy). The classification task is done by a small neural network (trained by submitted abstracts).
 
