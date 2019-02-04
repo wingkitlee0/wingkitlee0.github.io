@@ -60,26 +60,23 @@ BSc in Physics
 - Technologies: Multi-threaded debugging, Fortran
 
 ## [Academic Experience](https://sites.northwestern.edu/wklee/cv)
-**[Northwestern University](https://ciera.northwestern.edu), Evanston, IL**  
-Postdoc  
-*Aug 2016 -- present*  
+### [Northwestern University](https://ciera.northwestern.edu), Evanston, IL
+> Postdoc | *Aug 2016 -- present*  
 - Perform research on fluid dynamics of celestial objects, such as forming-planets and galaxies. 
 - Develop object-oriented C++ code to solve fluid problems based on the finite-difference method.
 - Present published [results](https://sites.northwestern.edu/wklee/cv) in conferences/seminars as invited speaker.
 - Awarded Microsoft Azure Research Grant in 2017 for code development ($20000)
 
-**[Academic Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw), Taipei, Taiwan**  
-Postdoc  
-*Oct 2013 -- Aug 2016*  
+### [Academic Sinica Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw), Taipei, Taiwan
+> Postdoc | *Oct 2013 -- Aug 2016*  
 - Developed a Python program to perform parallel execution of Fortran code on the multi-node environment.
 - Participated in team development of a high-performance computational fluid dynamics code. Developed a parallel solver for Poisson equation using Fast Fourier Transform.
 - Awarded a postdoctoral fellowship and a national paper award in 2015 for the project.	
 - Organized an [international workshop](http://www.eacoa.net/event/20150209/index.php) and a [hack day](http://events.asiaa.sinica.edu.tw/workshop/20151120/). 
 - Taught a [course](https://github.com/wingkitlee/ASIAASummerSchool2014) on Python in a summer school.
 
-**UC San Diego**  
-Research Assistant  
-*Aug 2008 -- Sep 2013*
+### UC San Diego
+> Research Assistant | *Aug 2008 -- Sep 2013*
 - Created a new numerical algorithm to solve the coupled nonlinear differential equations.
 - Awarded 200,000 cpu-hours from national computing facilities (Teragrid) to perform high-throughput parameter-sweeping calculations.
 
