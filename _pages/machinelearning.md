@@ -16,7 +16,7 @@ Check the title for the webapp.
 
 The code can be found [here](https://github.com/wingkitlee0/arxiv_explore) <i class="fab fa-fw fa-github"></i>.
 
-*More details are coming*, including how to deploy the webapp (with numpy and tensorflow) onto [AWS Lambda](https://aws.amazon.com/lambda/) <i class="fab fa-aws"></i> serverless service.
+For the deployment detail (e.g., ow to deploy the webapp (with numpy and tensorflow) onto [AWS Lambda](https://aws.amazon.com/lambda/) <i class="fab fa-aws"></i>), I have written a [blog post](../_posts/2019-02-02-deploying-tensorflow-on-amazon-lambda.md) about it.
 
 ## Demo of webapp (20 news group  dataset)
 
