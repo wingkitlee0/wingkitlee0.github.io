@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Kit Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researching stuff."
-  location         : "Chicago, IL"
+  bio              : "My first Ubuntu version was 4.10"
+  location         : "Boston, MA"
   email            : wklee4993@gmail.com
   links:
     - label: "Resume (PDF)"
