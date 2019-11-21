@@ -7,4 +7,4 @@ author_profile: true
 
 Welcome!
 
-I am a researcher in astrophysics and looking for opportunities in the industry. As an astrophysicist, I develop theories (pen and papers), write codes, run numerical simulations, and most importantly, write papers and communicate with others about the new findings.
+I am a data scientist currently looking for new opportunities in the tech industry. I held a PhD in Physics and worked a few years as a postdoc researcher in the field of astrophysics. Feel free to check out my resume on this page!
