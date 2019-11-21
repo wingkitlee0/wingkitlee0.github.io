@@ -8,6 +8,18 @@ toc: true
 
 Here are a few projects that I have done during spare time.
 
+## [Greemigration](http://www.planetanalytics.space)
+
+![A demo screenshot here..]({{ site.url }}{{ site.baseurl }}/assets/images/demo_greemigration.png){: .align-center}
+
+The time to get a Green Card / permanent residency in the US is very uncertain. In this project I built a predictive model to make prediction of the waiting time based on the data. The web app allows user to supply their application information and obtain insights on how long does the approval take. Feel free to try it out.
+
+[Github](https://github.com/wingkitlee0/greemigration)
+
+(Disclaimer: the prediction provided AS-IS. Do not make important decision based on the web app.)
+
+---
+
 ## [Abstract Analyzer](https://azj31tvvek.execute-api.us-east-1.amazonaws.com/dev/)
 
 ![A demo GIF was here..]({{ site.url }}{{ site.baseurl }}/assets/images/demo.gif){: .align-center}
