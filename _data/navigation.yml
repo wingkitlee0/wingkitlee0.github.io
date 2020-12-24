@@ -14,5 +14,7 @@ main:
     url: /projects/
   - title: "Machine Learning"
     url: /machinelearning/
+  - title: "Blog"
+    url: /posts/
   - title: "About"
     url: /about/  

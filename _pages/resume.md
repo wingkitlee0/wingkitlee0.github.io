@@ -61,7 +61,7 @@ BSc in Physics
 
 ## [Academic Experience](https://sites.northwestern.edu/wklee/cv)
 ### [Northwestern University](https://ciera.northwestern.edu), Evanston, IL
-> Postdoc | *Aug 2016 -- present*  
+> Postdoc | *Aug 2016 -- Aug 2019*  
 - Perform research on fluid dynamics of celestial objects, such as forming-planets and galaxies. 
 - Develop object-oriented C++ code to solve fluid problems based on the finite-difference method.
 - Present published [results](https://sites.northwestern.edu/wklee/cv) in conferences/seminars as invited speaker.
